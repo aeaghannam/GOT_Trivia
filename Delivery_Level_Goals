@@ -1,0 +1,6 @@
+Bronze: Basic HTML document, with limited CSS and JS add-ons that allows a user to answer and submit answers and receive a score.
+
+Silver: Polished HTML/CSS document that includes visually appealing and relevant text and images that fit the Game of Thrones theme.
+
+Gold: Polished HTML/CSS document that includes visually appealing and relevant text and images that fit the Game of Thrones theme. The JS allows the user to ask for a hint to answer a question 
+and the user has the ability to send their score to their email once complete. 
