@@ -1,0 +1,12 @@
+1. As a user, I should be able to select the degree of difficulty I want the trivia quiz to be:
+New to Game of Thrones [Easy  difficulty questions ], 
+Regular fan of Game of Thrones [Medium  difficulty questions ], 
+Die-Hard Fan of Game of Thrones [Expert difficulty questions ].
+
+2. As a user, I should be able to select one of four multiple choice answer options to answer the question.
+
+3. As a user, I should be able to request a hint that will provide me a phrase that will assist me in answering the question at hand.
+
+4. As a user, I should be able to see the results of my submission once the trivia	quiz is complete.
+
+5. As a user, I should be able to send my results to myself via email.
